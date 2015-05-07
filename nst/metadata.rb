@@ -7,3 +7,4 @@ long_description 'Installs/Configures nst'
 version          '0.1.0'
 
 depends 'apt'
+depends 'postgresql', '~> 3.4.18'
